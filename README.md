@@ -1,2 +1,2 @@
-# 👋 Hi there! I am Kishan Seksaria - A Web Developer
+# 👋 Hi there! I am Kishan Seksaria - A Software Developer
 ##
